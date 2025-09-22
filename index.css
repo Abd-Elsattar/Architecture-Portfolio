@@ -204,6 +204,7 @@ section {
 }
 
 .section-title {
+    max-height: 20px;
     display: flex;
     align-items: center;
     gap: .75rem;
